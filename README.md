@@ -1,9 +1,11 @@
-This gem provides jQuery-UI bootstrap theme integration.
+# This gem provides jQuery-ui bootstrap theme integration.
 
 Install
 ------
 
-  gem 'jquery-ui-bootstrap-rails'
+In your Gemfile:
+
+`gem 'jquery-ui-bootstrap-rails'`
 
 
 Use
