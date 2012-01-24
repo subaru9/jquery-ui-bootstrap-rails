@@ -1,4 +1,4 @@
-### This gem provides jQuery-ui bootstrap theme integration.
+## This gem provides jQuery-ui bootstrap theme integration.
 
 Install
 ------
